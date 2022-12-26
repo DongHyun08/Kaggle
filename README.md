@@ -6,4 +6,4 @@
 
 ### Diabetes
 
-![Diabetes](https://user-images.githubusercontent.com/87642864/174126256-654c6422-19da-4916-a87c-06555cbc40d5.jpg)
+![당뇨병 예측](https://user-images.githubusercontent.com/87642864/209524035-4f67fe3b-8c30-46da-8b82-f779d6d7adbc.jpg)
