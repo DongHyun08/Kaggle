@@ -1,6 +1,6 @@
 ### Airline Satisfaction
 
-[항공사 승객 만족도.pdf](https://github.com/DongHyun08/Kaggle/files/10302418/default.pdf)
+![항공사 승객 만족도](https://user-images.githubusercontent.com/87642864/209523965-222f58a9-a4dc-4b95-959b-2eb5b4dd275a.jpg)
 
 
 
